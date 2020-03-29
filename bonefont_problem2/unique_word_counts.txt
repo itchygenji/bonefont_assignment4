@@ -1,0 +1,12 @@
+ball 3
+nine 1
+car 12
+witches 7
+stitches 4
+seven 6
+up 2
+ten 3
+down 3
+pill 6
+twenty 1
+mop 6
